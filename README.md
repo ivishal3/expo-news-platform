@@ -1,5 +1,11 @@
 # Welcome to your Expo app 👋
 
+<p align="center">
+  <img src="./assets/images/showcase/1.jpg" width="30%"  />
+  <img src="./assets/images/showcase/4.jpg" width="30%" />
+  <img src="./assets/images/showcase/5.jpg" width="30%" />
+</p>
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
