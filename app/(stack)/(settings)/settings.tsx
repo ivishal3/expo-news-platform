@@ -28,7 +28,12 @@ const Page = () => {
           <Text style={styles.detailSectionText}>Settings</Text>
           <MaterialIcons name="arrow-right" size={34} color={Colors.tint} />
         </TouchableOpacity>
+
+
       </View>
+      <View style={styles.logButtonSection}>
+          <Text style={styles.tag}>made with 🧡 by vishal yadav</Text>
+        </View>
     </View>
   );
 };
@@ -36,6 +41,10 @@ const Page = () => {
 export default Page;
 
 const styles = StyleSheet.create({
+  tag:{
+    flex: 1,
+    textAlign: "center",
+  },
   container: {
     flex: 1,
   },

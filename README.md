@@ -16,7 +16,13 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    npm start
    ```
 
-3. Build the app
+3. EAS Login
+
+   ```bash
+   eas login
+   ```
+
+4. Build the app
 
    ```bash
    eas build --platform android --profile preview
